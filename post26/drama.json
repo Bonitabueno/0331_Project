@@ -12,11 +12,21 @@
   {
     "id": 2,
     "title": "<원더풀스> 공식 예고편",
-    "description": "[5월 15일 공개] 종말론이 득세하던 1999년, 뜻밖의 사건으로 초능력을 얻게 된 동네 허당들이 해성시의 평화를 위협하는 빌런에 맞서 싸우는 초능력 코믹 액션 어드벤처",
+    "description": "종말론이 득세하던 1999년, 뜻밖의 사건으로 초능력을 얻게 된 동네 허당들이 해성시의 평화를 위협하는 빌런에 맞서 싸우는 초능력 코믹 액션 어드벤처",
     "type": "youtube",
     "youtubeId": "_tZ7jDSI8a4?si",
     "image": "",
     "link": "https://www.netflix.com/kr/title/81948067",
     "publish": "2026-05-13T18:00:00+09:00"
+  },
+  {
+    "id": 3,
+    "title": "ENA 드라마 <닥터섬보이>",
+    "description": "[6월 1일 첫방송] 모두가 기피하는 악명 높은 섬 '편동도'에 입도한 공중보건의사 도지의와 비밀 많은 간호사 육하리가 그리는 메디컬 휴먼 로맨스",
+    "type": "youtube",
+    "youtubeId": "ClWrVKe3DrU",
+    "image": "",
+    "link": "https://tv.naver.com/ena.doctorontheedge",
+    "publish": "2026-05-27T18:00:00+09:00"
   }
 ]
