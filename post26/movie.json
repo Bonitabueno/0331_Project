@@ -41,12 +41,22 @@
   },
   {
     "id": 5,
-    "title": "<군체> 5월 21일 개봉",
+    "title": "<군체>",
     "description": "서울 도심의 초고층 빌딩에서 정체불명의 집단 감염사태가 발생한다. 건물은 순식간에 봉쇄되고, 그 안에 있던 사람들은 그대로 고립된다.",
     "type": "youtube",
     "youtubeId": "FJ7uhPAAno8",
     "image": "",
     "link": "https://www.youtube.com/watch?v=FJ7uhPAAno8",
     "publish": "2026-05-19T10:00:00+09:00"
+  },
+  {
+    "id": 6,
+    "title": "넷플릭스 영화 <남편들>",
+    "description": "[6월19일 공개] 범죄 조직에게 납치당한 아내를 구출하기 위해 얼떨결에 힘을 합친 '전남편'과 '현남편'. 전남편과 현남편의 예측불허 작전을 그린 코믹 액션 영화가 넷플릭스에서 공개됩니다.,
+    "type": "youtube",
+    "youtubeId": "yhTI_6oASdA",
+    "image": "",
+    "link": "https://www.netflix.com/kr/title/82025112",
+    "publish": "2026-06-12T10:00:00+09:00"
   }
 ]
