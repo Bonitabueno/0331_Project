@@ -2,11 +2,21 @@
   {
     "id": 1,
     "title": "<유재석 캠프> 공식 예고편",
-    "description": "5월 26일 넷플릭스 새 예능 유재석 캠프가 공개됩니다.",
+    "description": "넷플릭스 예능 '유재석 캠프'를 확인해 보세요.",
     "type": "youtube",
     "youtubeId": "mS7MJ6ckrsw",
     "image": "",
     "link": "https://www.netflix.com/kr/title/82103767",
     "publish": "2026-05-13T00:00:00"
+  },
+  {
+    "id": 2,
+    "title": "<유재석 캠프> 공식 예고편",
+    "description": "넷플릭스 예능 '유재석 캠프'를 확인해 보세요.",
+    "type": "youtube",
+    "youtubeId": "-g2ELUIdbJk",
+    "image": "",
+    "link": "https://www.tving.com/contents/P001787471",
+    "publish": "2026-05-30T18:00:00"
   }
 ]
