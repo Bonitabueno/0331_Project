@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "title": "<넘버원> 넷플릭스 공개",
+    "title": "영화 <넘버원>",
     "description": "최우식, 장혜진, 공승연 주연의 영화 '넘버원'이 넷플릭스에서도 시청할 수 있습니다.",
     "type": "youtube",
     "youtubeId": "DSTM8WVMTUw",
@@ -58,5 +58,15 @@
     "image": "",
     "link": "https://www.netflix.com/kr/title/82025112",
     "publish": "2026-06-12T10:00:00+09:00"
+  },
+  {
+    "id": 7,
+    "title": "영화 <와일드 씽>",
+    "description": "[6월 3일 개봉] 한때 가요계를 휩쓸었지만 예기치 못한 사건에 휘말려 하루아침에 해체된 3인조 혼성 댄스 그룹 ‘트라이앵글’. 20년 만에 리더 현우에게 재기의 발판이 될 ‘트라이앵글’ 공연 제안이 들어온다.",
+    "type": "youtube",
+    "youtubeId": "zAI1f8FuMc0",
+    "image": "",
+    "link": "https://www.lottecinema.co.kr/NLCHS/Movie/MovieDetailView?movie=24235",
+    "publish": "2026-05-31T10:00:00+09:00"
   }
 ]
