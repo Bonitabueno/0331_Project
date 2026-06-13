@@ -68,5 +68,15 @@
     "image": "",
     "link": "https://www.lottecinema.co.kr/NLCHS/Movie/MovieDetailView?movie=24235",
     "publish": "2026-05-31T10:00:00+09:00"
+  },
+  {
+    "id": 8,
+    "title": "영화 <토이스토리5>",
+    "description": "[6월 17일 개봉] 장난감 VS 전자기기! 새로운 세상 속, 멈춰있던 장난감들이 다시 움직이기 시작한다!",
+    "type": "youtube",
+    "youtubeId": "_TrRSkNiK-A&ra=m",
+    "image": "",
+    "link": "https://m.search.naver.com/search.naver?where=m&sm=mtb_etc&mra=bkEw&pkid=68&os=40304702&qvt=0&query=토이스토리5상영일정",
+    "publish": "2026-06-13T15:00:00+09:00"
   }
 ]
