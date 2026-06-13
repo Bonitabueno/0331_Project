@@ -16,7 +16,7 @@
     "type": "youtube",
     "youtubeId": "_tZ7jDSI8a4?si",
     "image": "",
-    "link": "https://www.netflix.com/kr/title/81948067",
+    "link" "https://www.netflix.com/kr/title/81948067",
     "publish": "2026-05-13T18:00:00+09:00"
   },
   {
@@ -28,5 +28,35 @@
     "image": "",
     "link": "https://tv.naver.com/ena.doctorontheedge",
     "publish": "2026-05-27T18:00:00+09:00"
+  },
+  {
+    "id": 4,
+    "title": "넷플릭스 <참교육>",
+    "description": "선넘는 학생, 교사, 학부모로 인해 무너진 대한민국의 교권과 교육현장을 지키기 위해 창설된 교권보호국의 통쾌하고 시원한 참교육을 그린 이야기",
+    "type": "youtube",
+    "youtubeId": "08C7wXGMM-Q&ra",
+    "image": "",
+    "link": "https://www.netflix.com/kr/title/81947300",
+    "publish": "2026-06-13T18:00:00+09:00"
+  },
+  {
+    "id": 5,
+    "title": "넷플릭스 <맨 끝줄 소년>",
+    "description": "[6월 26일 공개] 실패한 작가이자 국문학과 교수인 ‘허문오’가 강의실 맨 끝줄 소년 ‘이강’의 천재성을 발견하고 그의 글에 집착하며 벌어지는 이야기를 그린 서스펜스 드라마",
+    "type": "youtube",
+    "youtubeId": "xtS3ZedOwQw&ra",
+    "image": "",
+    "link": "https://www.netflix.com/kr/title/82032597",
+    "publish": "2026-06-24T18:00:00+09:00"
+  },
+  {
+    "id": 6,
+    "title": "MBC <오십프로>",
+    "description": "평범해 보여도 끗발 좀 날리던 세 남자가 운명에 의해 다시 움직인다! 세상에 치이고 몸은 녹슬었을지언정 의리와 본능만은 여전한 인생의 50%를 달려온 진짜 프로들의 짠물 액션 코미디 드라마",
+    "type": "youtube",
+    "youtubeId": "VR_xuqnA_Zs",
+    "image": "",
+    "link": "https://m.wavve.com/player/vod?programid=M_T60526G",
+    "publish": "2026-06-13T17:00:00+09:00"
   }
 ]
