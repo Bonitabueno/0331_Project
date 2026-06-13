@@ -28,5 +28,25 @@
     "image": "",
     "link": "https://booking.naver.com/booking/5/bizes/1504681",
     "publish": "2026-05-27T17:00:00+09:00"
+  },
+  {
+    "id": 4,
+    "title": "성률 기획전 : 여름을 닮은 우리",
+    "description": "[~ 26.09.27] 청춘의 반짝임을 닮은 계절, 여름. 성률의 풍경을 따라 걷다 보면 누구나 한 번쯤 그곳에 있었던 것 같은 반가운 기분이 듭니다.",
+    "type": "youtube",
+    "youtubeId": "Gezd3pNZDJU",
+    "image": "",
+    "link": "https://booking.naver.com/booking/5/bizes/1596228",
+    "publish": "2026-06-13T19:30:00+09:00"
+  },
+  {
+    "id": 5,
+    "title": "색유만개 : 권순형 기증특별전시",
+    "description": "[~ 26.08.02] 권순형에게 '유약'은 단순한 도자기의 표면 마감재가 아니라 예술세계를 표현하는 핵심 도구였고, 평생에 걸쳐 실험한 '색유'는 곧 권순형을 상징하는 예술적 기호였습니다.",
+    "type": "youtube",
+    "youtubeId": "Cxj8Ig6qYaQ",
+    "image": "",
+    "link": "https://craftmuseum.seoul.go.kr/exhibit/plan/view/185",
+    "publish": "2026-06-13T20:00:00+09:00"
   }
 ]
