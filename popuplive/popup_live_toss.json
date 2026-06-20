@@ -1,12 +1,5 @@
 [  
-  {
-    "title": "레노버 팝업스토어",
-    "startDate": "25.12.02",
-    "endDate": "26.06.30",
-    "location": "서울 성동구 연무장17길 10 (성수동2가)",
-    "content": "Smarter technology for all 글로벌 No.1 PC 회사, 레노버의 팝업스토어가 성수 LCDC 서울에 오픈했습니다. 다양한 레노버 제품 라인업을 한 번에 만나 볼 수 있는 기회, 현장 구매를 통해서만 받을 수 있는 특별한 혜택을 놓치지마세요!",
-    "link": "https://m.place.naver.com/popupstore/1358809668/home"
-  },
+  
   {
     "title": "데미안 허스트 전시 : 진실은 없어 그러나 모든 것은 가능하지",
     "startDate": "26.03.20",
@@ -16,12 +9,36 @@
     "link": "https://booking.mmca.go.kr/product/ko/performance/490"
   },
   {
+    "title": "레노버 팝업스토어",
+    "startDate": "25.12.02",
+    "endDate": "26.06.30",
+    "location": "서울 성동구 연무장17길 10 (성수동2가)",
+    "content": "Smarter technology for all 글로벌 No.1 PC 회사, 레노버의 팝업스토어가 성수 LCDC 서울에 오픈했습니다. 다양한 레노버 제품 라인업을 한 번에 만나 볼 수 있는 기회, 현장 구매를 통해서만 받을 수 있는 특별한 혜택을 놓치지마세요!",
+    "link": "https://m.place.naver.com/popupstore/1358809668/home"
+  },
+  {
     "title": "라이크 어거스트 팝업스토어",
     "startDate": "24.08.01",
     "endDate": "26.06.30",
     "location": "강원 강릉시 초당순두부길 110 주차장, 에어스트림 캠핑트레일러",
     "content": "What is your color for Gangneung trip? 작지만 강릉으로 꽉 찬 자체디자인 기념품샵",
     "link": "https://www.instagram.com/like__august"
+  },
+  {
+    "title": "지읒리을 막걸리 팝업",
+    "startDate": "26.06.07",
+    "endDate": "26.06.30",
+    "location": "서울 중구 장충단로 275, 두타몰 지하 2층",
+    "content": "춘천쌀로 빚은 무첨가 자연발효 막걸리 브랜드 ‘지읒리을 막걸리’ 팝업스토어예요.지읒리을 막걸리는 0% 인공감미료, 100% 천연재료를 사용해 크림처럼 부드럽고 과일처럼 달콤한 맛을 구현한 것이 특징이에요.",
+    "link": "https://www.instagram.com/zr.makgeolli"
+  },
+  {
+    "title": "비커즈 팝업",
+    "startDate": "26.06.05",
+    "endDate": "26.07.02",
+    "location": "서울 중구 퇴계로 77 (충무로1가) 신세계백화점 본점 디 에스테이트 4층 A.P.C 매장 옆",
+    "content": "일본 대표 웨더굿즈 브랜드 비커즈. 비커즈 팝업에서는 감도 높은 디자인의 우양산과 다양한 웨더 굿즈를 직접 체험해볼 수 있어요.",
+    "link": "https://www.instagram.com/p/DZBk8u1CSBu"
   },
   {
     "title": "성수 콜랩코리아 팝업",
