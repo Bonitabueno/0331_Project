@@ -42,7 +42,7 @@
   {
     "id": 5,
     "title": "넷플릭스 <맨 끝줄 소년>",
-    "description": "[6월 26일 공개] 실패한 작가이자 국문학과 교수인 ‘허문오’가 강의실 맨 끝줄 소년 ‘이강’의 천재성을 발견하고 그의 글에 집착하며 벌어지는 이야기를 그린 서스펜스 드라마",
+    "description": "실패한 작가이자 국문학과 교수인 ‘허문오’가 강의실 맨 끝줄 소년 ‘이강’의 천재성을 발견하고 그의 글에 집착하며 벌어지는 이야기를 그린 서스펜스 드라마",
     "type": "youtube",
     "youtubeId": "xtS3ZedOwQw",
     "image": "",
@@ -58,5 +58,25 @@
     "image": "",
     "link": "https://m.wavve.com/player/vod?programid=M_T60526G",
     "publish": "2026-06-13T17:00:00+09:00"
+  },
+  {
+    "id": 7,
+    "title": "디즈니플러스 <킬러들의 쇼핑몰2>",
+    "description": "혹독한 인수인계를 마치고 쇼핑몰의 새로운 대표가 된 '지안'이 살아돌아온 '진만'과 함께 '바빌론' 글로벌 세력에 맞서 본격적인 반격을 펼치는 스타일리시 액션 시리즈",
+    "type": "youtube",
+    "youtubeId": "dC_HaATa19w",
+    "image": "",
+    "link": "https://www.disneyplus.com/ko-kr/browse/entity-7d607023-2f51-40f8-9316-b554b7a05c41",
+    "publish": "2026-07-22T22:00:00+09:00"
+  },
+  {
+    "id": 8,
+    "title": "tvN <오싹한 연얘>",
+    "description": "귀신을 보는 재벌 상속녀와 귀신을 가장 무서워하는 열혈 검사의 좌충우돌 오컬트 로맨스",
+    "type": "youtube",
+    "youtubeId": "o9m6MANhie0",
+    "image": "",
+    "link": "https://www.tving.com/contents/P001788020",
+    "publish": "2026-07-25T17:00:00+09:00"
   }
 ]
