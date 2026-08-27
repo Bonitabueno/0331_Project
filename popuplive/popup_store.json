@@ -1,21 +1,5 @@
 [  
   {
-    "title": "레노버 팝업스토어",
-    "startDate": "25.12.02",
-    "endDate": "26.06.30",
-    "location": "서울 성동구 연무장17길 10 (성수동2가)",
-    "content": "Smarter technology for all 글로벌 No.1 PC 회사, 레노버의 팝업스토어가 성수 LCDC 서울에 오픈했습니다. 다양한 레노버 제품 라인업을 한 번에 만나 볼 수 있는 기회, 현장 구매를 통해서만 받을 수 있는 특별한 혜택을 놓치지마세요!",
-    "link": "https://m.place.naver.com/popupstore/1358809668/home"
-  },
-  {
-    "title": "지읒리을 막걸리 팝업",
-    "startDate": "26.06.07",
-    "endDate": "26.06.30",
-    "location": "서울 중구 장충단로 275, 두타몰 지하 2층",
-    "content": "춘천쌀로 빚은 무첨가 자연발효 막걸리 브랜드 ‘지읒리을 막걸리’ 팝업스토어예요.지읒리을 막걸리는 0% 인공감미료, 100% 천연재료를 사용해 크림처럼 부드럽고 과일처럼 달콤한 맛을 구현한 것이 특징이에요.",
-    "link": "https://www.instagram.com/zr.makgeolli"
-  },
-  {
     "title": "비커즈 팝업",
     "startDate": "26.06.05",
     "endDate": "26.07.02",
@@ -78,6 +62,14 @@
     "location": "서울 중구 을지로 281, 동대문다자인플라자",
     "content": "무려 120만 명의 마음을 움직인 ‘키크니’ 작가의 국내 최대 규모 특별전이에요. 가족, 연인, 친구와 함께 일상의 위로를 충전할 수 있는 전시로, 키크니의 대표 그림과 굿즈를 한자리에서 만나볼 수 있어요.",
     "link": "https://www.instagram.com/p/DXgmIyyERlf/"
+  },
+  {
+    "title": "프리카 성수 팝",
+    "startDate": "26.08.21",
+    "endDate": "26.09.06",
+    "location": "서울 성동구 연무장13길 4 1층 (성수동 2가)",
+    "content": "성수에서 제주의 여름을 알리는 귤메달 청귤 팝업스토어가 시작됩니다.",
+    "link": "https://www.instagram.com/prika_pick/"
   },
   {
     "title": "고스티 쇼룸 서울숲",
