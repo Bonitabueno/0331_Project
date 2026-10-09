@@ -1,0 +1,29 @@
+[
+  {
+    "id": "project-03",
+    "title": "Matjip Fairy Global",
+    "status": "live",
+    "description": "대한민국의 맛집과 카페 정보를 제공합니다.",
+    "tags": ["PWA", "정보", "로컬"],
+    "icon": "fa-utensils",
+    "externalLink": "https://matjipfairy.netlify.app/"
+  },
+  {
+    "id": "project-02",
+    "title": "Popup-Live",
+    "status": "live",
+    "description": "요즘 뜨는 팝업스토어 정보를 실시간으로 제공하는 위치 기반 서비스입니다.",
+    "tags": ["PWA", "로컬"],
+    "icon": "fa-map-marked-alt",
+    "externalLink": "https://popuplive.kro.kr"
+  },
+  {
+    "id": "project-03",
+    "title": "Popup-Live MCP",
+    "status": "live",
+    "description": "카카오 PlayMCP에 등록된 Popup-Live MCP 서버입니다.",
+    "tags": ["MCP"],
+    "icon": "fa-gear",
+    "externalLink": "https://playmcp.kakao.com/mcp/319"
+  }
+]
