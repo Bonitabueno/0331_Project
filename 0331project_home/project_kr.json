@@ -50,7 +50,7 @@
   {
     "title": "맛집요정 글로벌",
     "description": "한국의 식당과 카페, 그리고 음식에 관심이 있는 외국인을 위한 사이트입니다.",
-    "status": "Beta",
+    "status": "live",
     "tags" : ["맛집", "로컬", "음식"],
     "icon": "",
     "externalLink": "https://matjipfairy.netlify.app/"
@@ -58,7 +58,7 @@
   {
     "title": "[토스미니앱] 팝업라이브",
     "description": "서울 성수동을 비롯한 다양한 지역의 팝업 스토어 행사 정보와 혼잡도 정보를 제공합니다.",
-    "status": "Active",
+    "status": "live",
     "tags" : ["토스"],
     "icon": "",
     "externalLink": "https://minion.toss.im/31gU4fKl"
