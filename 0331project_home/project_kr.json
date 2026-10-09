@@ -1,29 +1,66 @@
 [
   {
-    "id": "project-03",
-    "title": "Matjip Fairy Global",
-    "status": "live",
-    "description": "대한민국의 맛집과 카페 정보를 제공합니다.",
-    "tags": ["PWA", "정보", "로컬"],
-    "icon": "fa-utensils",
+    "title": "팝업라이브(Popup Live)",
+    "description": "서울 성수동을 비롯한 다양한 지역의 팝업 스토어 행사 정보와 혼잡도 정보를 제공합니다.",
+    "status": "Active",
+    "tags" : ["PWA", "로컬"]
+    "icon": "",
+    "externalLink": "https://popuplive.kro.kr/"
+  },
+  {
+    "title": "팝업라이브 Play MCP",
+    "description": "카카오 Play MCP 도구함에 '팝업라이브 MCP'를 추가해보세요. 당신의 LLM이 팝업 스토어 행사 정보를 알려줍니다.",
+    "status": "Active",
+    "tags" : ["MCP"]
+    "icon": "",
+    "externalLink": "https://playmcp.kakao.com/mcp/319"
+  },
+  {
+    "title": "MyWTS : My Wealth Training System",
+    "description": "내가 직접 기록하는 투자 자산 관리",
+    "status": "Active",
+    "tags" : ["PWA"]
+    "icon": "",
+    "externalLink": "https://mywts.kro.kr/"
+  },
+  {
+    "title": "맛집요정",
+    "description": "[리뉴얼 중] 맛집요정과 대화해보세요.",
+    "status": "Renewal",
+    "tags" : ["맛집", "로컬", "음식"]
+    "icon": "",
+    "externalLink": "https://matjipyojeong.webflow.io/"
+  },
+  {
+    "title": "맛집요정 안드로이드",
+    "description": "[리뉴얼 중] 원스토어에서 맛집요정 안드로이드 앱을 확인해보세요.",
+    "status": "Renewal",
+    "tags" : ["맛집", "로컬", "음식"]
+    "icon": "",
+    "externalLink": "https://m.onestore.co.kr/v2/ko-kr/app/0000776995"
+  },
+  {
+    "title": "맛집요정 카카오톡",
+    "description": "카카오톡에서 맛집요정과 대화해 보세요.",
+    "status": "Beta",
+    "tags" : ["맛집", "로컬", "음식"]
+    "icon": "",
+    "externalLink": "http://pf.kakao.com/_tJfJn"
+  },
+  {
+    "title": "맛집요정 글로벌",
+    "description": "한국의 식당과 카페, 그리고 음식에 관심이 있는 외국인을 위한 사이트입니다.",
+    "status": "Beta",
+    "tags" : ["맛집", "로컬", "음식"]
+    "icon": "",
     "externalLink": "https://matjipfairy.netlify.app/"
   },
   {
-    "id": "project-02",
-    "title": "Popup-Live",
-    "status": "live",
-    "description": "요즘 뜨는 팝업스토어 정보를 실시간으로 제공하는 위치 기반 서비스입니다.",
-    "tags": ["PWA", "로컬"],
-    "icon": "fa-map-marked-alt",
-    "externalLink": "https://popuplive.kro.kr"
-  },
-  {
-    "id": "project-03",
-    "title": "Popup-Live MCP",
-    "status": "live",
-    "description": "카카오 PlayMCP에 등록된 Popup-Live MCP 서버입니다.",
-    "tags": ["MCP"],
-    "icon": "fa-gear",
-    "externalLink": "https://playmcp.kakao.com/mcp/319"
+    "title": "[토스미니앱] 팝업라이브",
+    "description": "서울 성수동을 비롯한 다양한 지역의 팝업 스토어 행사 정보와 혼잡도 정보를 제공합니다.",
+    "status": "Active",
+    "tags" : ["토스"]
+    "icon": "",
+    "externalLink": "https://minion.toss.im/31gU4fKl"
   }
 ]
