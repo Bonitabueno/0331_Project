@@ -25,16 +25,16 @@
   },
   {
     "title": "맛집요정",
-    "description": "[리뉴얼 중] 맛집요정과 대화해보세요.",
-    "status": "Renewal",
+    "description": "맛집요정과 대화해보세요.",
+    "status": "renewal",
     "tags" : ["맛집", "로컬", "음식"],
     "icon": "",
     "externalLink": "https://matjipyojeong.webflow.io/"
   },
   {
     "title": "맛집요정 안드로이드",
-    "description": "[리뉴얼 중] 원스토어에서 맛집요정 안드로이드 앱을 확인해보세요.",
-    "status": "Renewal",
+    "description": "원스토어에서 맛집요정 안드로이드 앱을 확인해보세요.",
+    "status": "renewal",
     "tags" : ["맛집", "로컬", "음식"],
     "icon": "",
     "externalLink": "https://m.onestore.co.kr/v2/ko-kr/app/0000776995"
