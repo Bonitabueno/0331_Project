@@ -1,20 +1,4 @@
-[  
-  {
-    "title": "사십야계",
-    "startDate": "26.10.23",
-    "endDate": "26.10.24",
-    "location": "부산 중구 중앙대로 73",
-    "content": "10월 23일, 24일 이틀 동안 부산 중앙동 40계단 일대가 레트로 야장으로 바뀌어요. 매일 16시부터 21시까지 40계단 맛집 메뉴와 레트로 문방구 체험, DJ 사운드를 즐길 수 있고 입장은 무료예요.",
-    "link": "https://40steps.kr/"
-  },
-  {
-    "title": "소머드 롯데본점 팝업",
-    "startDate": "26.08.28",
-    "endDate": "26.10.29",
-    "location": "서울 중구 남대문로 81, 롯데백화점 본점 8층 소머드",
-    "content": "흙표흙침대의 패밀리 브랜드 '소머드'가 롯데 소공동 본점 팝업을 시작해요. 소머드는 한국 전통문화인 온돌의 따뜻함을 현대적으로 재해석한 흙 온열 매트리스 브랜드에요. 온열과 마시지 기능이 함께 들어있는 모션힐 매트리스를 체험하고 사은품 베개도 받아가세요.",
-    "link": "https://m.place.naver.com/popupstore/2027303446/home"
-  },
+[
   {
     "title": "하우스 오브 토이스토리",
     "startDate": "26.09.04",
@@ -32,12 +16,172 @@
     "link": "https://m.place.naver.com/popupstore/2013925846/home"
   },
   {
+    "title": "에쿠아 팝업",
+    "startDate": "26.10.21",
+    "endDate": "26.11.03",
+    "location": "서울 성동구 연무장15길 11, EQL 성수점",
+    "content": "디자이너 브랜드 에쿠아(EQUA)의 첫 오프라인 팝업이 EQL 성수점에서 열려요. 전 상품 15% 할인과 함께 10만 원 이상 구매 시 선착순 30명에게 레이스 스카프를 증정해요",
+    "link": "https://www.instagram.com/p/Deq1ebYxmaD/"
+  },
+  {
+    "title": "바이탈뷰티 팝업 - SUPER GLOW SAUNA",
+    "startDate": "26.10.28",
+    "endDate": "26.11.03",
+    "location": "서울 성동구 연무장길 31-1 103호",
+    "content": "바이탈뷰티의 슈퍼레티놀 라인을 만나는 'SUPER GLOW SAUNA' 테마 팝업이에요. 사우나 체험 시 팝업 한정 굿즈를 받을 수 있고, 팝업 내 미션 클리어 시 샘플 2종을 증정해요",
+    "link": "https://www.instagram.com/vitalbeautie_official/p/De1E2QFGaLH/"
+  },
+  {
+    "title": "글라이디 팝업",
+    "startDate": "26.10.28",
+    "endDate": "26.11.03",
+    "location": "서울 성동구 성수이로7길 41, 카시나 성수",
+    "content": "스케이트보드를 타는 캐릭터 글라이디(GLIDDY)가 카시나 성수에 팝업을 열어요. 그래피티 포토존과 애니메이션 상영, 한정 인형과 키캡 등 굿즈를 만나볼 수 있어요",
+    "link": "https://www.instagram.com/reel/DfENjjwxuav/"
+  },
+  {
+    "title": "메이드바이 X 맘마 햄스토어 팝업 @성수",
+    "startDate": "26.09.08",
+    "endDate": "26.11.04",
+    "location": "서울 성동구 서울숲길 38, 메이드바이 성수점",
+    "content": "메이드바이와 맘마의 콜라보 팝업이 메이드바이 성수점에서 열려요. 햄스터 캐릭터를 담은 햄스토어 마트 콘셉트 공간에서 선공개 신상과 콜라보 상품을 만나고, 스탬프 투어와 럭키드로우 이벤트도 즐길 수 있어요",
+    "link": "https://www.instagram.com/p/DdArLlWEuw_"
+  },
+  {
+    "title": "플레어업 팝업 - IN A DAZE",
+    "startDate": "26.10.16",
+    "endDate": "26.11.05",
+    "location": "서울 성동구 성수이로 74, 대림창고",
+    "content": "플레어업의 26FW 'IN A DAZE' 컬렉션을 성수 대림창고에서 만나는 팝업이에요. 이예주 작가의 전시와 함께 신상 컬렉션을 보고, 오프라인 추가 10% 할인과 리퍼브 균일가 세일 혜택도 있어요",
+    "link": "https://www.instagram.com/reel/DeZRP8-zxgh/"
+  },
+  {
     "title": "보테로 팝업",
     "startDate": "26.08.14",
     "endDate": "26.11.06",
     "location": "서울 종로구 자하문로7길 62 (통인동, 호선맨션), 1층",
     "content": "보테로의 2026 F/W 새로운 컬렉션을 서촌에서 만나보세요. 새롭게 선보이는 시즌 제품부터 꾸준히 사랑받아온 시그니처 백, 그리고 FRONTROW x BOTERO 익스클루시브 콜라보레이션 제품까지 한 공간에서 직접 확인할 수 있어요",
     "link": "https://www.instagram.com/p/DcFHgVXvXY9/"
+  },
+  {
+    "title": "코치 'LIVE YOUR STORY' 팝업",
+    "startDate": "26.10.19",
+    "endDate": "26.11.07",
+    "location": "서울 성동구 서울숲2길 43, 무신사 스페이스 서울숲 B1~2층",
+    "content": "코치가 2026 가을 캠페인 'Live Your Story' 론칭을 기념해 여는 팝업이에요. 리스닝 부스, 스토리 월, 포스트카드 스테이션 같은 체험 콘텐츠와 스페셜 에디션 태비백 5종, 무신사 단독 코치 백도 만나볼 수 있어요",
+    "link": "https://www.musinsa.com/brand/coach"
+  },
+  {
+    "title": "오푸리스 X 오프뷰티 팝업",
+    "startDate": "26.10.23",
+    "endDate": "26.11.07",
+    "location": "서울 성동구 연무장3길 9, 오프뷰티 성수메가팩토리점 1호",
+    "content": "오푸리스(OPURIS)가 오프뷰티 성수메가팩토리점에서 여는 팝업이에요. 광채 제품을 직접 체험하고, SNS 팔로우와 사진 인증 시 상품 증정 혜택도 받을 수 있어요",
+    "link": "https://www.instagram.com/p/DetcCrjzRjH/"
+  },
+  {
+    "title": "2026 미리위크 팝업 - 방탈출 게임, 기획전시",
+    "startDate": "26.10.24",
+    "endDate": "26.11.08",
+    "location": "서울 성동구 성수이로18길 5",
+    "content": "방탈출 게임과 기획전시를 함께 즐기는 2026 미리위크 팝업이에요. 기획전시는 예약 없이 무료 입장 가능하고, 방탈출 게임은 사전 예약제로 만 12세 이상 참여할 수 있어요",
+    "link": "https://www.instagram.com/kpf__official"
+  },
+  {
+    "title": "뮤직 앤 월즈 성수 팝업",
+    "startDate": "26.10.29",
+    "endDate": "26.11.08",
+    "location": "서울 성동구 연무장7길 13, 트렌드팟 바이 올리브영 성수",
+    "content": "라이엇게임즈의 '뮤직 앤 월즈26' 팝업스토어가 트렌드팟 바이 올리브영 성수에 열려요. 리그 오브 레전드 한정 제품과 페이커 기념우표를 만날 수 있고, 현장 웨이팅은 입구에서 오전 8시부터 등록해요",
+    "link": "https://www.instagram.com/leagueoflegendskorea/"
+  },
+  {
+    "title": "VR 이머시브 방탈출 뮤지컬 - 심청 in 성수",
+    "startDate": "26.11.01",
+    "endDate": "26.11.08",
+    "location": "서울 성동구 연무장17길 6, 공간 철",
+    "content": "고전 심청전을 재해석한 관객 참여형 VR 이머시브 뮤지컬이에요. VR 속 고양이가 되어 배우와 함께 미션을 수행하는 약 60분 공연으로, 회차당 최대 6명까지 관람할 수 있어요",
+    "link": "https://www.instagram.com/6dofamine/"
+  },
+  {
+    "title": "알리가차쏜다 팝업스토어",
+    "startDate": "26.11.05",
+    "endDate": "26.11.08",
+    "location": "서울 성동구 성수이로18길 6-1",
+    "content": "성수에서 열리는 '알리가차쏜다' 팝업스토어예요. 사전예약으로 방문할 수 있어요",
+    "link": "https://m.place.naver.com/popupstore/2001518463/home"
+  },
+  {
+    "title": "후쿠요시 카페 팝업스토어",
+    "startDate": "26.10.20",
+    "endDate": "26.11.09",
+    "location": "서울 서초구 신반포로 176 신세계강남점 B1 스위트파크",
+    "content": "후쿠요시 카페가 신세계 강남점에서 팝업을 열어요. 아사히카와 명물 '토키와야키'와 홋카이도산 식재료로 만든 디저트를 만나볼 수 있어요.",
+    "link": "https://m.place.naver.com/popupstore/2089964003/home"
+  },
+  {
+    "title": "Dear Bestie Party 핑크오피스 팝업",
+    "startDate": "26.10.12",
+    "endDate": "26.11.10",
+    "location": "서울 성동구 연무장길 88",
+    "content": "롬앤의 10주년을 기념하는 'Dear Bestie Party' 팝업이 성수 롬앤 핑크오피스에서 열려요",
+    "link": "https://www.instagram.com/romand_pinkoffice/"
+  },
+  {
+    "title": "리바이포유 10주년 성수 팝업",
+    "startDate": "26.10.28",
+    "endDate": "26.11.12",
+    "location": "서울 성동구 연무장길 65, LECT성수",
+    "content": "리바이포유 10주년 기념 성수 팝업이에요. 방문 미션 참여 시 팝업 한정 가방과 거울 키링을, 퀴즈를 맞히면 랜덤 선물을 받을 수 있고 전 제품 30% 할인과 구매 금액별 본품 증정 혜택도 있어요",
+    "link": "https://www.instagram.com/rbfy_official"
+  },
+  {
+    "title": "드래곤볼 전시 - 드래곤볼 히어로즈 라이즈 서울",
+    "startDate": "26.08.22",
+    "endDate": "26.11.15",
+    "location": "서울 성동구 뚝섬로 403",
+    "content": "'드래곤볼 히어로즈 라이즈' 아시아 투어의 서울 전시예요. 명장면과 전투를 담은 전시 콘텐츠로 드래곤볼의 세계관과 캐릭터 성장 스토리를 체험할 수 있어요",
+    "link": "https://www.instagram.com/db_heroes_kr"
+  },
+  {
+    "title": "<재혼 황후> 동대제국으로의 초대",
+    "startDate": "26.11.03",
+    "endDate": "26.11.15",
+    "location": "서울 성동구 아차산로 116, 1~2층",
+    "content": "웹툰 '재혼 황후'의 세계관을 체험하는 팝업이에요. 나비에 황후의 사적인 공간을 공개한 콘셉트로, 황후의 방에 남겨진 흔적과 단서를 찾아보는 이야기예요",
+    "link": "https://m.place.naver.com/popupstore/2036763619/home"
+  },
+  {
+    "title": "본투윈 성수 팝업 스토어",
+    "startDate": "26.11.11",
+    "endDate": "26.11.15",
+    "location": "서울 성동구 성수이로18길 6, 1층",
+    "content": "본투윈(BORNTOWIN)의 성수 팝업 스토어예요",
+    "link": "https://m.place.naver.com/popupstore/2029966166/home"
+  },
+  {
+    "title": "전지전능 팝업",
+    "startDate": "26.11.13",
+    "endDate": "26.11.15",
+    "location": "서울 성동구 성수이로8길 3, SPACE S50",
+    "content": "전기차와 전기 에너지를 체험하는 '전지전능' 팝업스토어가 SPACE S50에 열려요. 나에게 맞는 전기차 찾기와 참여형 프로그램, 이벤트와 리워드를 즐길 수 있어요",
+    "link": "https://www.instagram.com/ev.or.kr"
+  },
+  {
+    "title": "탐정 스누피의 잃어버린 단서 in 유니세프 정원",
+    "startDate": "26.09.10",
+    "endDate": "26.11.16",
+    "location": "서울 성동구 뚝섬로 273, 서울숲 유니세프 정원",
+    "content": "탐정 스누피와 함께 단서를 찾는 탐험 콘텐츠가 서울숲 유니세프 정원에 열려요. 정원을 산책하며 유니세프의 활동을 만나고, 미션 완료 인증 시 스누피 스티커팩을 받을 수 있어요",
+    "link": "https://popga.co.kr/?utm_source=naver_place&utm_medium=referral&utm_campaign=place_link&utm_content=8882"
+  },
+  {
+    "title": "승리의 여신: 니케 X 무신사 팝업",
+    "startDate": "26.11.06",
+    "endDate": "26.11.19",
+    "location": "서울 성동구 성수이로 74, 무신사 스토어 성수 1층",
+    "content": "'승리의 여신: 니케' 4주년 기념 무신사 콜라보 팝업이 성수에서 열려요. 수베니어 자켓, 후드 집업 등 패션 아이템과 구매 금액별 특전, 방문 증정 입장 티켓과 스티커 세트를 만날 수 있어요",
+    "link": "https://x.com/NIKKE_kr/status/2114884795910029629"
   },
   {
     "title": "프로세카×애니플러스 콜라보 카페 @부산",
@@ -48,12 +192,60 @@
     "link": "https://shop.aniplustv.com/offline-shop/collabo-cafe?collaboId=115"
   },
   {
+    "title": "신라면분식 더 팩토리",
+    "startDate": "26.06.16",
+    "endDate": "26.11.22",
+    "location": "서울 성동구 성수일로4길 52",
+    "content": "40주년을 맞은 신라면의 팝업 공간이에요. 나만의 라면 만들기 체험, SHIN 키친 라면 메뉴, 해외 인기 라면과 커스텀 굿즈까지 즐길 수 있어요",
+    "link": "https://m.place.naver.com/popupstore/2082644987/home"
+  },
+  {
+    "title": "픽스피자 팝업스토어",
+    "startDate": "26.10.22",
+    "endDate": "26.11.22",
+    "location": "서울 성동구 연무장길 5-9",
+    "content": "픽스피자(PICK'S PIZZA)의 성수 팝업스토어예요. 1,800원부터 즐기는 한 손 피자를 대형 오븐에서 3분 만에 구워주고, 구매 금액별 럭키드로우와 SNS 인증 굿즈 이벤트도 있어요",
+    "link": "https://www.instagram.com/pickspizza_official"
+  },
+  {
+    "title": "[와일드리프트] 2026 와일드 라운드: 스매쉬",
+    "startDate": "26.11.21",
+    "endDate": "26.11.22",
+    "location": "서울 성동구 연무장15길 11, SFACTORY D동",
+    "content": "와일드 리프트의 오프라인 축제 '2026 와일드 라운드: 스매쉬'가 에스팩토리에서 열려요. 올스타전과 인플루언서 매치, K/DA 미니게임, 아티스트 앨리와 무료 기념 굿즈를 즐길 수 있어요",
+    "link": "https://m.place.naver.com/popupstore/2097230380/home"
+  },
+  {
+    "title": "버터샵 팝업",
+    "startDate": "26.10.30",
+    "endDate": "26.11.26",
+    "location": "서울 성동구 연무장길 57, 이구홈 성수 1호점",
+    "content": "캐릭터 라이프스타일 브랜드 버터샵이 이구홈 성수 1호점에 크리스마스 팝업을 열어요. 크리스마스 아이템과 세서미, 엔젤 시리즈를 만나고, 구매 시 선착순 100명에게 버터 키링을 증정해요",
+    "link": "https://www.instagram.com/butter_insta/p/De_X6FWjwnY/"
+  },
+  {
+    "title": "카드캡터 사쿠라 콜라보 카페",
+    "startDate": "26.11.11",
+    "endDate": "26.11.29",
+    "location": "서울 성동구 서울숲2길 43, 무신사 스페이스 서울숲",
+    "content": "'사쿠라와 토모요의 티파티' 콜라보 카페가 무신사 스페이스 서울숲에서 열려요. 캐릭터 모티브 음료 6종과 일본 티파티 오리지널 굿즈를 만나고, 주문 시 코스터와 포스트카드 증정 혜택이 있어요",
+    "link": "https://m.place.naver.com/popupstore/1430244939/home"
+  }
+  {
     "title": "메디큐브 X 포에버체리 팝업",
     "startDate": "26.07.24",
     "endDate": "26.11.30",
     "location": "서울 중구 퇴계로 77 (충무로1가, 신세계백화점), 신세계면세점 명동점 10층",
     "content": "메디큐브와 포에버체리가 함께하는 사랑스러운 핑크빛 팝업으로, 포에버체리의 감성을 담은 메디큐브 제품과 특별한 공간을 한자리에서 만날 수 있는 뷰티 팝업스토어예요.",
     "link": "https://www.instagram.com/p/Da6xqwoEeVG/"
+  },
+  {
+    "title": "렌즈미 압구정도산점 팝업 이벤트",
+    "startDate": "26.10.24",
+    "endDate": "26.11.30",
+    "location": "서울 강남구 선릉로155길 29",
+    "content": "렌즈미 압구정도산점에서 팝업 이벤트가 열려요. 사전 방문 예약 혜택 2P와 구매 금액대별 혜택 최대 20P를 합해 1-DAY 렌즈를 최대 22P까지 받을 수 있어요.",
+    "link": "https://m.place.naver.com/popupstore/1018791879/home"
   },
   {
     "title" : "발루토커피 압구정 팝업",
@@ -112,11 +304,19 @@
     "link": "https://www.instagram.com/ridarsport"
   },
   {
+    "title": "버켄스탁 코엑스점 팝업",
+    "startDate": "26.03.18",
+    "endDate": "27.02.27",
+    "location": "서울 강남구 영동대로 513 스타필드 코엑스몰 B1F",
+    "content": "버켄스탁 코엑스점 팝업이 스타필드 코엑스몰 지하 1층에서 진행 중이에요. 이 매장은 수선 서비스를 제공하지 않아요.",
+    "link": "https://www.instagram.com/birkenstockkr/"
+  },
+  {
     "title": "애니모어 부산 삼정타워 팝업스토어",
     "startDate": "26.08.01",
     "endDate": "27.08.01",
     "location": "부산 부산진구 중앙대로 672, 9층",
-    "content": "짱구, 산리오, 포켓몬 등 다양한 IP 굿즈를 판매하는 애니메이션 전문 굿즈 팝업스토어 '애니모어'예요. 세상의 모든 굿즈를 부산 삼정타워에서 한곳에 모아 만나보세요.",
+    "content": "짱구, 산리오, 포켓몬 등 다양한 IP 굿즈를 판매하는 애니메이션 전문 굿즈 팝업스토어 '애니모어'예요. 세상의 모든 굿즈를 한곳에서 만나보세요.",
     "link": "https://x.com/hoyada_15"
   }
 ]
