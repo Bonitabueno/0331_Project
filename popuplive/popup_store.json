@@ -40,6 +40,14 @@
     "link": "https://www.instagram.com/p/DcFHgVXvXY9/"
   },
   {
+    "title": "후쿠요시 카페 팝업스토어",
+    "startDate": "26.10.20",
+    "endDate": "26.11.09",
+    "location": "서울 서초구 신반포로 176 신세계강남점 B1 스위트파크",
+    "content": "후쿠요시 카페가 신세계 강남점에서 팝업을 열어요. 아사히카와 명물 '토키와야키'와 홋카이도산 식재료로 만든 디저트를 만나볼 수 있어요.",
+    "link": "https://m.place.naver.com/popupstore/2089964003/home"
+  },
+  {
     "title": "프로세카×애니플러스 콜라보 카페 @부산",
     "startDate": "26.10.08",
     "endDate": "26.11.22",
@@ -54,6 +62,14 @@
     "location": "서울 중구 퇴계로 77 (충무로1가, 신세계백화점), 신세계면세점 명동점 10층",
     "content": "메디큐브와 포에버체리가 함께하는 사랑스러운 핑크빛 팝업으로, 포에버체리의 감성을 담은 메디큐브 제품과 특별한 공간을 한자리에서 만날 수 있는 뷰티 팝업스토어예요.",
     "link": "https://www.instagram.com/p/Da6xqwoEeVG/"
+  },
+  {
+    "title": "렌즈미 압구정도산점 팝업 이벤트",
+    "startDate": "26.10.24",
+    "endDate": "26.11.30",
+    "location": "서울 강남구 선릉로155길 29",
+    "content": "렌즈미 압구정도산점에서 팝업 이벤트가 열려요. 사전 방문 예약 혜택 2P와 구매 금액대별 혜택 최대 20P를 합해 1-DAY 렌즈를 최대 22P까지 받을 수 있어요.",
+    "link": "https://m.place.naver.com/popupstore/1018791879/home"
   },
   {
     "title" : "발루토커피 압구정 팝업",
@@ -112,11 +128,19 @@
     "link": "https://www.instagram.com/ridarsport"
   },
   {
+    "title": "버켄스탁 코엑스점 팝업",
+    "startDate": "26.03.18",
+    "endDate": "27.02.27",
+    "location": "서울 강남구 영동대로 513 스타필드 코엑스몰 B1F",
+    "content": "버켄스탁 코엑스점 팝업이 스타필드 코엑스몰 지하 1층에서 진행 중이에요. 이 매장은 수선 서비스를 제공하지 않아요.",
+    "link": "https://www.instagram.com/birkenstockkr/"
+  },
+  {
     "title": "애니모어 부산 삼정타워 팝업스토어",
     "startDate": "26.08.01",
     "endDate": "27.08.01",
     "location": "부산 부산진구 중앙대로 672, 9층",
-    "content": "짱구, 산리오, 포켓몬 등 다양한 IP 굿즈를 판매하는 애니메이션 전문 굿즈 팝업스토어 '애니모어'예요. 세상의 모든 굿즈를 부산 삼정타워에서 한곳에 모아 만나보세요.",
+    "content": "짱구, 산리오, 포켓몬 등 다양한 IP 굿즈를 판매하는 애니메이션 전문 굿즈 팝업스토어 '애니모어'예요. 세상의 모든 굿즈를 한곳에서 만나보세요.",
     "link": "https://x.com/hoyada_15"
   }
 ]
