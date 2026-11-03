@@ -1,21 +1,5 @@
 [
   {
-    "title": "하우스 오브 토이스토리",
-    "startDate": "26.09.04",
-    "endDate": "26.10.31",
-    "location": "서울 성동구 연무장3길 8-9, LECT HOUSE",
-    "content": "토이 스토리 팝업이 성수동 LECT HOUSE에서 열려요! 캐릭터 실제 크기 그대로 만날 수 있는 포토존과 1층부터 4층까지. 공간 구석구석 가득한 다양한 제품들을 만나보세요",
-    "link": "https://www.instagram.com/p/Dc-dVL4EzzT/"
-  },
-  {
-    "title": "핏플랍 원주 팝업",
-    "startDate": "26.04.10",
-    "endDate": "26.10.31",
-    "location": "강원 원주시 봉화로 1, AK플라자 원주 1층 핏플랍",
-    "content": "편안한 착화감의 슈즈 브랜드 핏플랍이 AK플라자 원주 1층에서 팝업을 운영하고 있어요. 샌들, 스니커즈, 쪼리 등 다양한 슈즈를 판매해요.",
-    "link": "https://m.place.naver.com/popupstore/2013925846/home"
-  },
-  {
     "title": "에쿠아 팝업",
     "startDate": "26.10.21",
     "endDate": "26.11.03",
@@ -121,6 +105,14 @@
     "link": "https://m.place.naver.com/popupstore/2001518463/home"
   },
   {
+    "title": "STUNGUN 김동현 팝업스토어",
+    "startDate": "26.10.26",
+    "endDate": "26.11.08",
+    "location": "대전 유성구 엑스포로 1 대전 신세계, 6층 아트테라스",
+    "content": "김동현 STUNGUN의 공식 의류와 굿즈, HYROX 기록 챌린지를 만나는 팝업이에요. 체험 참여 시 챌린지 패스, 상품 구매 시 PVC 네임택 카드를 증정해요.",
+    "link": "https://m.place.naver.com/popupstore/2042565785/home"
+  },
+  {
     "title": "후쿠요시 카페 팝업스토어",
     "startDate": "26.10.20",
     "endDate": "26.11.09",
@@ -135,6 +127,14 @@
     "location": "서울 성동구 연무장길 88",
     "content": "롬앤의 10주년을 기념하는 'Dear Bestie Party' 팝업이 성수 롬앤 핑크오피스에서 열려요",
     "link": "https://www.instagram.com/romand_pinkoffice/"
+  },
+  {
+    "title": "치이상점 팝업스토어 in 대전",
+    "startDate": "26.10.28",
+    "endDate": "26.11.10",
+    "location": "대전 유성구 계룡로 119 NC 대전 유성점 10층",
+    "content": "일본 직수입 소품샵 아오키치이상점의 대전 팝업이에요. 캐릭터 인형과 굿즈, 키링, 소품, 가챠를 만나볼 수 있어요.",
+    "link": "https://www.instagram.com/chiee_store_"
   },
   {
     "title": "리바이포유 10주년 성수 팝업",
@@ -175,6 +175,14 @@
     "location": "서울 성동구 성수이로8길 3, SPACE S50",
     "content": "전기차와 전기 에너지를 체험하는 '전지전능' 팝업스토어가 SPACE S50에 열려요. 나에게 맞는 전기차 찾기와 참여형 프로그램, 이벤트와 리워드를 즐길 수 있어요",
     "link": "https://www.instagram.com/ev.or.kr"
+  },
+  {
+    "title": "an.time 팝업스토어",
+    "startDate": "26.09.17",
+    "endDate": "26.11.15",
+    "location": "대전 유성구 테크노중앙로 123 2층",
+    "content": "애슬레저 브랜드 언타임이 대전 현대아울렛에서 팝업을 열어요. 기능성 웨어와 라이프스타일 의류, 가방과 모자 등 액세서리를 만나볼 수 있어요. 오픈 프로모션으로 구매 시 20%, 4개 구매 시 추가 10% 할인해요.",
+    "link": "https://m.place.naver.com/popupstore/2040859902/home"
   },
   {
     "title": "탐정 스누피의 잃어버린 단서 in 유니세프 정원",
@@ -257,6 +265,14 @@
     "link": "https://m.place.naver.com/popupstore/1018791879/home"
   },
   {
+    "title": "에이블트라이크 대전신세계 백화점 팝업",
+    "startDate": "26.02.27",
+    "endDate": "26.11.30",
+    "location": "대전 유성구 엑스포로 1, 대전 신세계 4층",
+    "content": "에이블 트라이크 팝업 스토어가 대전 신세계 Art&Science 4층에서 열렸어요.",
+    "link": "https://www.instagram.com/able_trike_official/"
+  },
+  {
     "title" : "발루토커피 압구정 팝업",
     "startDate": "25.12.19",
     "endDate": "26.12.18",
@@ -319,6 +335,14 @@
     "location": "대구 중구 달구벌대로 2077, 더현대 대구 7층 팝업행사장",
     "content": "가누다와 까르마가 더현대 대구 7층에서 팝업을 열어요. 까르마 프레임과 매트리스 40%, 토퍼 40~50%, 가누다 베개 단품 20% 할인 행사를 진행해요. 11월 7~8일과 14~15일 오후 1시부터 6시까지 전문 물리치료사의 1:1 체형 측정 이벤트도 열려요.",
     "link": "https://m.place.naver.com/popupstore/2069536173/home"
+  },
+  {
+    "title": "무아스 팝업스토어 신세계백화점 대전점",
+    "startDate": "26.06.20",
+    "endDate": "27.01.31",
+    "location": "대전 유성구 엑스포로 1, 신세계백화점 대전점",
+    "content": "감각적인 디자인과 실용성으로 일상을 채우는 라이프스타일 브랜드 '무아스'의 팝업이 신세계백화점 대전점에서 열려요.",
+    "link": "https://www.instagram.com/mooas_official/"
   },
   {
     "title": "라이다 신세계 센텀시티 팝업스토어",
